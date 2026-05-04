@@ -1,0 +1,3 @@
+[submodule "react-project/my-final-app"]
+	path = react-project/my-final-app
+	url = https://github.com/kanaicenat/my-final-app.git
