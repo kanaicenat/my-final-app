@@ -1,16 +1,14 @@
 {
-  {
   "name": "my-final-app",
   "homepage": "https://kanaicenat.github.io/my-final-app",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-    
   }
 }
